@@ -1,4 +1,4 @@
-# Merkle Tree Integrity Verification
+# Merkle Tree Integrity Verification System
 
 ## Author
 Irfan Khalid
